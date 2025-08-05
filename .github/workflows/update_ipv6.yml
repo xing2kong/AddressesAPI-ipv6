@@ -1,4 +1,4 @@
-name: Update ipv6 Addresses
+name: Update IPv6 Addresses
 
 on:
   schedule:
